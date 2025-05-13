@@ -1,0 +1,16 @@
+{
+  "name": "conway",
+  "description": "Simple implementation of Conway's Game of Life in CoffeeScript",
+  "version": "0.0.2",
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "directories.doc": "docs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drylikov/conway.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
